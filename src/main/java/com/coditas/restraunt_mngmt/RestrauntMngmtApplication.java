@@ -1,0 +1,14 @@
+package com.coditas.restraunt_mngmt;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class RestrauntMngmtApplication {
+
+    public static void main(String[] args) {
+
+        SpringApplication.run(RestrauntMngmtApplication.class, args);
+    }
+
+}
